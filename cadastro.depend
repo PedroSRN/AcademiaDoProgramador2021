@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616132341 source:c:\users\pedra\desktop\academia do programador\cadastro\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
